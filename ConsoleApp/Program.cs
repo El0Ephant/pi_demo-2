@@ -3,7 +3,7 @@ namespace App
 {
     public class ConsoleApp
     {
-        void Main(String[] args)
+        public static void Main(String[] args)
         {
             Console.WriteLine("Hello, World!");
         }
